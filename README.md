@@ -1,5 +1,5 @@
 # NLP
-Genism Library
+Gensim Library
 Uses advances models to perform complex tasks
 - Building document or word vectors
 - Performing topic identification and document comparison
